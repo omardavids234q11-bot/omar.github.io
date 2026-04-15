@@ -1,0 +1,22 @@
+
+    body{
+        text-align: center;
+        background-color: black;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+       
+    }
+
+
+
+
+header{
+        color: rgb(102, 62, 183);
+    }
+
+    footer div a{
+        float: left;
+        color: blue;
+    }
+    
+
